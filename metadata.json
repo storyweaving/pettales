@@ -1,0 +1,7 @@
+{
+  "name": "PetTalesAI",
+  "description": "An AI-powered writing assistant to help pet owners overcome writer's block by providing context-aware, pet-inspired suggestions in a clean, multi-chapter writing environment.",
+  "repositoryUrl": "pettalesai",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
